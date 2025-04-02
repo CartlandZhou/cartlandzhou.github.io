@@ -7,7 +7,7 @@ permalink: /
 
 {% include image.html url="images/Zhou_ProfilePicture.jpeg" caption="" width="393" height="288" align="right" %}
 
-My name is Cartland Zhou, and I am a Political Science Ph.D. candidate at the University of California, Los Angeles (UCLA). My core research seeks to model and answer questions regarding conflict initiation and dynamics as a result of great power politics and arms transfers. I also have research interests in computer vision to develop novel techniques that supplement my core research, such as optical character and object recognition. My dissertation is a book project examining mechanisms under which great powers leverage arms transfers for geopolitical strategic gains and their implications for interstate disputes and conflicts. I am a 2024-2025 IGCC fellow, 2024-2025 Hans J. Morgenthau fellow, and a 2023-2024 Alice Belkin scholar. 
+My name is Cartland Zhou. I am a Political Science Ph.D. candidate at the University of California, Los Angeles (UCLA). In the upcoming academic year 2025-2026, I will be a Postdoctoral Fellow at the Niehaus Center for Globalization and Governance (NCGG) at Princeton University. My core research evaluates the influence of geopolitical and global economic constraints on modern conflict processes and international relations. My dissertation book project argues that the global arms supply, dominated by an oligarchic arms industry, shapes aspects of militarized conflicts in the Post-WWII era. I use machine learning models to develop novel techniques and measure latent outcomes in my research projects. I am a 2024-2025 IGCC fellow, 2024-2025 Hans J. Morgenthau fellow, and a 2023-2024 Alice Belkin scholar. 
 
 ## Contact
 
