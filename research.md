@@ -27,11 +27,11 @@ Modern International Relations theories of conflict largely relies on rationalit
 
 ## Working Papers
 
-#### *Tools Outside of Diplomacy: Introducing a Dataset of Foreign Lobbying (Under Review)*
+#### *On the Relationship between Arms Supply and War*
 <details>
   <summary>Abstract</summary>
 
-  Why do foreign entities lobby in the U.S.? Understanding lobbying behaviors of foreign actors and their impact on domestic and international politics is crucial towards addressing theoretical and empirical gaps across several social science disciplines. However, the study of foreign lobbying has been constrained by data limitations that impeded the scope and breadth of research opportunities for scholars. This paper introduces a foreign lobbying panel dataset based on multiple data sources from the Foreign Agent Registration Act of 1938 database from 2003 to 2021. The dataset provides researchers with tools to analyze foreign lobbying behavior at the lobbyist level, foreign entity level, and lobbying activity level. Leveraging various features of the dataset, I identify lobbying patterns from various types of foreign actors, examine their policy goals, and assess the impact of these lobbying efforts. This dataset contributes to resolving longstanding research debates on the extent of political influence exerted by foreign actors and uncovers new research opportunities for future researchers in the field.
+  This paper explores the relationship between arms supply and war. I argue that the availability of third-party arms supply determines the probability, timing, and intensity of most interstate wars in the post-WWII world. The flow of arms supply is determined not only by the production capability and strategic calculations of the suppliers, but also existing supplier networks and military capability of the potential belligerent. Given that the global supply of arms does not vary with demand driven by conflict, belligerents supported by Great Power suppliers are more likely to engage in militarized conflicts. Moreover, decisions made by suppliers to limit or increase arms transfers could significantly affect the development of the conflict. I apply this theoretical framework to analyze the Iran-Iraq War of 1980. Using a combination of primary and secondary sources, I demonstrate that despite the belligerent’s relative financial independence, third-party arms suppliers played a crucial role in various stages and aspects of the conflict.
 
 </details>
 
