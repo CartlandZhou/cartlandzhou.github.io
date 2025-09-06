@@ -21,8 +21,8 @@ pubs:
 #### *The Global Arms Supply Constraint and Its Implications for Modern Conflicts*
 <details>
   <summary>Abstract</summary>
-Scholars of conflict have long studied when and why conflicts occur. In this paper, I introduce a novel structural theory, that of a global arms supply constraint, to explain why states of disparate military strengths are more likely to engage in militarized conflict in the post-World War II era. I argue that due to the increased complexity and specialization of production, the manufacture and supply of modern arms globally is highly concentrated and constrained. This creates a unique security environment where the difficulty in sustaining arms supply necessary for militarized conflict leads states to fight shorter conflicts with predictable outcomes, so as to minimize their need for arms. My results show that in the post-WWII period, states of disparate military strengths are 36.8% more likely to engage in militarized conflict. This paper also makes a methodological contribution by introducing a new measurement of military strength using a two-step Principal Component Analysis – Manhattan Distance (PCA-MD) technique and k-Means Clustering on comprehensive arsenal data from 1970 – 2014 to better reflect the effectiveness of combined arms capabilities in modern warfare. Compared to existing measures of military strength, this measurement is demonstrated to be more robust and accurate in reflecting modern military capabilities.
-
+Scholars of conflict have long researched the declining occurrence of militarized international conflicts in the modern world. In this paper, I introduce a constraining framework to explain why modern conflicts are tempered by the means of war, rather than the logic of war. I argue that due to the increased complexity and specialization of arms production, the manufacture and supply of modern arms globally is highly concentrated and constrained. This creates a unique security environment where the diﬀiculty in sustaining arms supply necessary for militarized conflict leads states to prefer shorter conflicts with more predictable outcomes, so as to decrease the level of uncertainty in their arms supply. My results show that in constrast with the pre-WWII period, in the post-WWII era, states of disparate military strengths are more likely to engage in militarized conflict. Moreover, conflicts are more likely to occur when the initiator is relatively confident in the stability of their arms supply. This paper also makes a methodological contribution by introducing a new measurement of military strength using a two-step Principal Component Analysis – Manhattan Distance (PCA-MD) technique on comprehensive arsenal data from 1970 – 2023 to better reflect the effectiveness of combined arms capabilities in modern warfare. Compared to existing measures of military strength, this measurement is demonstrated to be more robust and accurate in reflecting modern military capabilities.
+    
 </details>
 
 ## Working Papers
@@ -32,6 +32,15 @@ Scholars of conflict have long studied when and why conflicts occur. In this pap
   <summary>Abstract</summary>
 
   This paper explores the relationship between arms supply and war. I argue that the availability of third-party arms supply determines the probability, timing, and intensity of most interstate wars in the post-WWII world. The flow of arms supply is determined not only by the production capability and strategic calculations of the suppliers, but also existing supplier networks and military capability of the potential belligerent. Given that the global supply of arms does not vary with demand driven by conflict, belligerents supported by Great Power suppliers are more likely to engage in militarized conflicts. Moreover, decisions made by suppliers to limit or increase arms transfers could significantly affect the development of the conflict. I apply this theoretical framework to analyze the Iran-Iraq War of 1980. Using a combination of primary and secondary sources, I demonstrate that despite the belligerent’s relative financial independence, third-party arms suppliers played a crucial role in various stages and aspects of the conflict.
+
+</details>
+
+#### *Theorizing the Fundamentals of Arms Diplomacy*
+<details>
+  <summary>Abstract</summary>
+
+When and why do states use arms diplomacy? In this paper, I argue that arms transfer is a diplomatic tool primarily used for two strategic objectives: alliance capability enhancement and power projection. However, the availability of alternative
+suppliers and the supplier state’s financial incentives to export arms mitigate the effectiveness of arms diplomacy. I use the logit regression to examine whether arms diplomacy is used for achieving foreign policy goals and how successful they are likely to be. My results show that arms diplomacy is a common diplomatic tool employed by the United States to encourage the establishment of overseas military bases and project military power beyond its borders. Furthermore, weapons that tend to attract more media and public attention are more likely to be used for diplomatic purposes than others, indicating that the selection of arms transferred is strategic.
 
 </details>
 
