@@ -21,7 +21,15 @@ pubs:
 #### *The Global Arms Supply Constraint and Its Implications for Modern Conflicts*
 <details>
   <summary>Abstract</summary>
-Scholars of conflict have long researched the declining occurrence of militarized international conflicts in the modern world. In this paper, I introduce a constraining framework to explain why modern conflicts are tempered by the means of war, rather than the logic of war. I argue that due to the increased complexity and specialization of arms production, the manufacture and supply of modern arms globally is highly concentrated and constrained. This creates a unique security environment where the diﬀiculty in sustaining arms supply necessary for militarized conflict leads states to prefer shorter conflicts with more predictable outcomes, so as to decrease the level of uncertainty in their arms supply. My results show that in constrast with the pre-WWII period, in the post-WWII era, states of disparate military strengths are more likely to engage in militarized conflict. Moreover, conflicts are more likely to occur when the initiator is relatively confident in the stability of their arms supply. This paper also makes a methodological contribution by introducing a new measurement of military strength using a two-step Principal Component Analysis – Manhattan Distance (PCA-MD) technique on comprehensive arsenal data from 1970 – 2023 to better reflect the effectiveness of combined arms capabilities in modern warfare. Compared to existing measures of military strength, this measurement is demonstrated to be more robust and accurate in reflecting modern military capabilities.
+Why do some wars never occur even when incentives for war are present and strong? Scholars have long researched the causes of war and speculated on the outbreak of wars
+that never came to pass. However, explanations for the absence of such wars remain underexplored. In this paper, I introduce a framework to explain why modern conflicts
+are constrained primarily by the means of war, rather than the logic of war. I argue that due to the increased complexity and specialization of arms production, the man-
+ufacture and supply of modern arms globally is highly concentrated and constrained. This creates a unique security environment where the diﬀiculty in sustaining arms
+supply necessary for militarized conflict leads states to prefer shorter conflicts with more predictable outcomes, so as to decrease the level of uncertainty in their arms
+supply. My results show that, in contrast with the pre-WWII period, post-WWII era states of disparate military strengths are more likely to engage in militarized conflict.
+Moreover, conflicts are more likely to occur when the initiator is relatively confident in the stability of their arms supply. This paper also makes a methodological contribution by introducing a new measurement of military strength using a two-step Principal Component Analysis – Manhattan Distance (PCA-MD) technique on comprehensive
+arsenal data from 1970 – 2023 to better reflect the effectiveness of combined arms capabilities in modern warfare. Compared to existing measures of military strength,
+this measurement is demonstrated to be more robust and accurate in reflecting modern military capabilities.
     
 </details>
 
