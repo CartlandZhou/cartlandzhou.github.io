@@ -4,6 +4,8 @@ title: Welcome
 permalink: /
 ---
 
+##Welcome
+
 {% include image.html url="images/Zhou_ProfilePicture.jpeg" caption="" width="393" height="288" align="right" %}
 
 <div style="text-align: justify;">
