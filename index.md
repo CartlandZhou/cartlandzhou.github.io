@@ -4,7 +4,7 @@ title: Welcome
 permalink: /
 ---
 
-##Welcome
+## Welcome
 
 {% include image.html url="images/Zhou_ProfilePicture.jpeg" caption="" width="393" height="288" align="right" %}
 
