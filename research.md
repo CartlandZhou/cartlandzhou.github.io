@@ -15,31 +15,14 @@ pubs:
         - name: "IMDB"
           url:  "http://www.imdb.com/title/tt0133093/"
 ---
-
-## Job Market Paper
-
-#### *The Global Arms Supply Constraint and Its Implications for Modern Conflicts*
-<details>
-  <summary>Abstract</summary>
-Why do some wars never occur even when incentives for war are present and strong? Scholars have long researched the causes of war and speculated on the outbreak of wars
-that never came to pass. However, explanations for the absence of such wars remain underexplored. In this paper, I introduce a framework to explain why modern conflicts
-are constrained primarily by the means of war, rather than the logic of war. I argue that due to the increased complexity and specialization of arms production, the man-
-ufacture and supply of modern arms globally is highly concentrated and constrained. This creates a unique security environment where the diﬀiculty in sustaining arms
-supply necessary for militarized conflict leads states to prefer shorter conflicts with more predictable outcomes, so as to decrease the level of uncertainty in their arms
-supply. My results show that, in contrast with the pre-WWII period, post-WWII era states of disparate military strengths are more likely to engage in militarized conflict.
-Moreover, conflicts are more likely to occur when the initiator is relatively confident in the stability of their arms supply. This paper also makes a methodological contribution by introducing a new measurement of military strength using a two-step Principal Component Analysis – Manhattan Distance (PCA-MD) technique on comprehensive
-arsenal data from 1970 – 2023 to better reflect the effectiveness of combined arms capabilities in modern warfare. Compared to existing measures of military strength,
-this measurement is demonstrated to be more robust and accurate in reflecting modern military capabilities.
-    
-</details>
-
 ## Working Papers
+
 
 #### *On the Relationship between Arms Supply and War*
 <details>
   <summary>Abstract</summary>
 
-  This paper explores the relationship between arms supply and war. I argue that the availability of third-party arms supply determines the probability, timing, and intensity of most interstate wars in the post-WWII world. The flow of arms supply is determined not only by the production capability and strategic calculations of the suppliers, but also existing supplier networks and military capability of the potential belligerent. Given that the global supply of arms does not vary with demand driven by conflict, belligerents supported by Great Power suppliers are more likely to engage in militarized conflicts. Moreover, decisions made by suppliers to limit or increase arms transfers could significantly affect the development of the conflict. I apply this theoretical framework to analyze the Iran-Iraq War of 1980. Using a combination of primary and secondary sources, I demonstrate that despite the belligerent’s relative financial independence, third-party arms suppliers played a crucial role in various stages and aspects of the conflict.
+  How does the global supply of arms influence modern war? In this paper, I advance a theory of modern war that centers on the availability of arms supply as a primary determinant of militarized conflict in the post-WWII era. I argue that two characteristics of the global arms industry—oligopoly and supply inelasticity—constrain both the occurrence and intensity of militarized conflicts. This theory models global arms transfers during wartime as a strategic allocation problem for the few major arms suppliers and draws several important implications for understanding modern militarized conflict. First, belligerents supported by Great Power suppliers prior to conflict are more likely to engage in militarized conflicts, though they are also in turn constrained by their supplier's continued patronage. Second, the decisions by suppliers to limit or alter the quantity and type of arms transferred can significantly influence the trajectory of a conflict. Lastly, the limited production capacity of the global arms industry and stockpile dynamics serve as a form of universal constraint on the number and intensity of large-scale militarized interstate conflicts that can occur concurrently.
 
 </details>
 
