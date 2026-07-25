@@ -9,7 +9,7 @@ permalink: /
 {% include image.html url="images/Zhou_ProfilePicture.jpeg" caption="" width="393" height="288" align="right" %}
 
 <div style="text-align: justify;">
-<p>I currently hold the appointment of Senior Research Fellow in the Department of Politics and Public Administration at the University of Hong Kong (HKU).</p>
+<p>I currently hold the appointment of Senior Research Associate in the Department of Politics and Public Administration at the University of Hong Kong (HKU).</p>
   
 <p>My core research revolves around the theory of constraints that binds the initiation and intensity of modern militarized interstate disputes. By tracing the evolution of the global arms industry since World War II, I argue that the implementation of just-in-time production processes resulted in the inadvertent development of an arms constraint that limits states from building arsenals that can initiate and sustain intense long-term militarized disputes. <i>As such, prolonged high-intensity militarized disputes are an artifact of historical conflict behavior that can no longer occur due to the characteristics of the modern global arms industry.</i></p>
   
