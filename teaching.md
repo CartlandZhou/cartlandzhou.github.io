@@ -3,6 +3,10 @@ layout: page
 permalink: /teaching/
 ---
 
+## Courses Taught
+
+- Theories of International Relations, *Semester 1 AY2026-27*
+
 ## Teaching Assistant
 
 - International Relations Theory, *Spring 2024, Spring 2023*
